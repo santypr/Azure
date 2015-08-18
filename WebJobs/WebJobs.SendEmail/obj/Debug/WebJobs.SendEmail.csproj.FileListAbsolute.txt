@@ -1,0 +1,8 @@
+D:\Development\Git\Azure\WebJobs\WebJobs.SendEmail\bin\Debug\WebJobs.SendEmail.exe.config
+D:\Development\Git\Azure\WebJobs\WebJobs.SendEmail\bin\Debug\WebJobs.SendEmail.exe
+D:\Development\Git\Azure\WebJobs\WebJobs.SendEmail\bin\Debug\WebJobs.SendEmail.pdb
+D:\Development\Git\Azure\WebJobs\WebJobs.SendEmail\bin\Debug\SendGrid.SmtpApi.dll
+D:\Development\Git\Azure\WebJobs\WebJobs.SendEmail\bin\Debug\SendGridMail.dll
+D:\Development\Git\Azure\WebJobs\WebJobs.SendEmail\obj\Debug\WebJobs.SendEmail.csprojResolveAssemblyReference.cache
+D:\Development\Git\Azure\WebJobs\WebJobs.SendEmail\obj\Debug\WebJobs.SendEmail.exe
+D:\Development\Git\Azure\WebJobs\WebJobs.SendEmail\obj\Debug\WebJobs.SendEmail.pdb
